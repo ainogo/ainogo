@@ -44,6 +44,11 @@ I build **production-grade AI systems** and **full-stack applications** that sol
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,python,dart,react,flutter,nodejs,express,postgres,firebase,tailwind" />
+  <p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,dart,react,flutter,nodejs,express,postgres,firebase,tailwind" />
+  <br/>
+  <img src="https://img.shields.io/badge/Claude_AI-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
+  </p>
 </p>
 
 ---
