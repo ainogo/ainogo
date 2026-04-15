@@ -8,12 +8,12 @@
 ---
 
 ### 👨‍💻 About Me
-I leverage AI (Claude Opus, GPT, Qwen) to build production-grade, highly scalable applications. I don't just write code; I architect solutions that eliminate bottlenecks, reduce infrastructure costs, and ship exceptionally fast. 
+I leverage AI (Claude Opus, GPT) to build production-grade, highly scalable applications. I don't just write code; I architect solutions that eliminate bottlenecks, reduce infrastructure costs, and ship exceptionally fast. 
 
 - 🔭 I’m currently building: **VendorCenter**, an AI-powered local services marketplace.
 - 🌱 I’m currently mastering: **Advanced Agentic AI Workflows & Local LLM Fine-Tuning**
 - 💬 Ask me about: **Full-Stack Development, Cost-Optimized AI Infrastructure, Flutter, React**
-- 📫 How to reach me: **anujsuryawanshi@example.com** *(Replace with real email)*
+- 📫 How to reach me: **anujsuryawanshi318@gmail.com**
 
 ---
 
