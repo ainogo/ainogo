@@ -10,11 +10,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
-      - uses: anmol098/waka-readme-stats@master
+      - name: Waka Readme Stats
+        uses: anmol098/waka-readme-stats@v3
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TOTAL_CODE_TIME: "true"
-          SHOW_PROFILE_VIEWS: "false"
-          SHOW_LINES_OF_CODE: "true"
