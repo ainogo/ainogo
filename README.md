@@ -65,6 +65,6 @@ A complete services marketplace mapping real-world workflows into a digital plat
 
 ### 🌟 Let's Connect!
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_ID" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/YOUR_LINKEDIN_ID](https://www.linkedin.com/in/anuj-suryawanshi-aa2a26292?utm_source=share_via&utm_content=profile&utm_medium=member_android)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <!-- Add other social links here -->
 </p>
