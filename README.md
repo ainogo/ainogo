@@ -179,4 +179,4 @@ options trading data.
 
 ## 💡 Philosophy
 
-> "I don't just build projects. I build systems that turn data and technology into practical solutions."
+> "Building systems that turn data and technology into practical solutions."
