@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anuj Suryawanshi</h1>
-<h3 align="center">🚀 AI Engineer | Full-Stack Builder | Scaling Real-World Systems with AI</h3>
+
+<h3 align="center">
+🚀 AI & Data Science Engineer | Machine Learning | Data Analytics | Full-Stack Systems
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ainogo&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -9,44 +12,145 @@
 
 ## 🧠 About Me
 
-I build **production-grade AI systems** and **full-stack applications** that solve real-world problems — not just demos.
+I am a B.Tech Artificial Intelligence & Data Science student focused on
+building practical AI, machine learning, and data-driven systems.
 
-* ⚡ Architecting **cost-efficient AI systems** (LLMs + infra optimization)
-* 🧩 Building scalable platforms with **React, Node.js, Flutter**
-* 🚀 Focused on **speed, scalability & real impact**
+I enjoy working across the complete lifecycle of a problem — from
+collecting and cleaning data to analysis, modeling, visualization,
+and deploying software systems around the resulting insights.
+
+- 🧠 Machine Learning & Generative AI
+- 📊 Data Analysis, EDA & Statistical Analysis
+- 🐍 Python, Pandas & NumPy
+- 🗄️ SQL & PostgreSQL
+- 📈 Tableau & Data Visualization
+- ⚙️ Full-Stack & AI-integrated applications
 
 ---
 
 ## 🔥 Current Focus
 
-* 🏗 Building **VendorCenter** — AI-powered local services marketplace
-* 🧠 Mastering **Agentic AI Workflows & Local LLM Fine-Tuning**
-* ⚙️ Optimizing **low-cost AI infra (Groq, self-hosted models, fallbacks)**
+- 🧠 Machine Learning & Generative AI
+- 📊 Data Analytics, EDA & Statistical Analysis
+- 🤖 RAG, Vector Databases & AI Model Integration
+- 🏗️ Building VendorCenter — an AI-powered local services marketplace
+- ⚙️ Building data-driven systems using Python, APIs and cloud technologies
 
 ---
 
-## 🚀 Featured Project: VendorCenter
+## 📊 Data Science & Analytics
 
-> A real-world services marketplace powered by AI & scalable architecture
+### NIFTY 0DTE Options Trade Journal & Pattern Performance Analyzer
 
-* 🌐 **3 Web Apps:** Customer | Vendor | Admin (React + Vite + Tailwind)
-* 📱 **2 Mobile Apps:** Flutter (Customer + Vendor)
-* 🤖 **AI Stack:**
-  `Qwen2.5-3B (Local) → Groq → Gemini` (fallback architecture)
+Built an end-to-end data analytics pipeline using real NIFTY/SENSEX
+options trading data.
 
-  * `pgvector` semantic search
-* 🔐 **Backend:** 100+ APIs | Express + PostgreSQL
-* 🛡 Features: OTP abuse protection, strict JWT auth
+- Collected and structured 15+ real intraday trading session logs using
+  Python and Pandas
+- Cleaned and analyzed variables including P&L, VIX, time-of-day,
+  strike, pattern type, and OI wall strength
+- Performed exploratory data analysis to identify pattern performance,
+  theta decay behavior, and relationships between VIX and trade outcomes
+- Built an interactive Tableau dashboard for session P&L, win rate by
+  pattern type, VIX vs. outcome distribution, and drawdown analysis
+- Integrated Angel One SmartAPI with Python for real-time options-chain data
+- Followed an end-to-end workflow:
+  **Data Collection → Cleaning → EDA → Analysis → Visualization → Insights**
+
+---
+
+## 🤖 AI & Software Projects
+
+### VendorCenter
+
+> AI-powered local services marketplace built as a production-style
+> full-stack platform.
+
+- 🌐 Customer, Vendor and Admin web applications
+- 📱 Customer and Vendor mobile applications using Flutter
+- 🤖 AI-powered automation and vendor matching workflows
+- 🧠 Vector-based semantic search using pgvector
+- 🔐 JWT authentication and OTP abuse protection
+- ⚙️ 100+ REST APIs using Express.js
+- 🗄️ PostgreSQL backend
+- ☁️ Cloud deployment and containerized services
+
+### iAcademia
+
+> College management system with AI model integration.
+
+- Built a full-stack college management platform
+- Integrated AI-assisted functionality into academic workflows
+- Designed data models and backend services for student and academic records
 
 ---
 
 ## 🛠 Tech Stack
 
-  <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,dart,react,flutter,nodejs,express,postgres,firebase,tailwind" />
-  <br/>
-  <img src="https://img.shields.io/badge/Claude_AI-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
-  </p>
+### Data Science & Machine Learning
+
+`Python` `Pandas` `NumPy` `Scikit-learn`
+`Exploratory Data Analysis` `Statistics`
+`Machine Learning` `Feature Engineering`
+
+### Generative AI
+
+`LLMs` `Prompt Engineering` `RAG`
+`Vector Databases` `pgvector` `AI Model Integration`
+
+### Data & Databases
+
+`SQL` `PostgreSQL` `MySQL`
+`Database Design` `Data Processing`
+
+### Data Visualization
+
+`Tableau` `Data Visualization`
+`Dashboards` `Data Analysis`
+
+### Software Engineering
+
+`TypeScript` `JavaScript` `React`
+`Node.js` `Express.js` `REST APIs`
+`Flutter` `Dart`
+
+### Cloud & DevOps
+
+`Docker` `Git` `GitHub`
+`Supabase` `AWS` `CI/CD`
+
+---
+
+## 💼 Experience
+
+### DataPoint(er) Technologies — Machine Learning Intern
+
+- Worked across the machine learning pipeline including data collection,
+  preprocessing, exploratory analysis, feature engineering, model building
+  and evaluation
+- Applied supervised and unsupervised learning algorithms using Python,
+  NumPy, Pandas and Scikit-learn
+- Evaluated model performance against standard metrics
+
+### Pleximus Inc — Software Development Intern
+
+- Built and deployed VendorCenter using React, TypeScript, Node.js,
+  Express.js and PostgreSQL
+- Designed REST APIs, authentication and location-based service discovery
+- Integrated AI-powered automation into vendor matching and booking workflows
+- Worked with cloud deployment and containerized components
+
+---
+
+## 📈 What I Like Building
+
+- Data-driven applications
+- Machine learning systems
+- AI-powered products
+- Analytics dashboards
+- Real-time data pipelines
+- RAG and retrieval systems
+- Full-stack applications with AI integration
 
 ---
 
@@ -59,7 +163,6 @@ I build **production-grade AI systems** and **full-stack applications** that sol
 </p>
 
 ---
-
 
 ## 🌐 Connect With Me
 
@@ -76,4 +179,4 @@ I build **production-grade AI systems** and **full-stack applications** that sol
 
 ## 💡 Philosophy
 
-> "I don't just build projects. I build systems that scale."
+> "I don't just build projects. I build systems that turn data and technology into practical solutions."
