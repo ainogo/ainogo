@@ -93,10 +93,10 @@ options trading data.
 `Exploratory Data Analysis` `Statistics`
 `Machine Learning` `Feature Engineering`
 
-### Generative AI
+### Generative AI (Foundational level)
 
-`LLMs` `Prompt Engineering` `RAG`
-`Vector Databases` `pgvector` `AI Model Integration`
+`LLMs` `Prompt Engineering`
+`Vector Databases` `RAG` `pgvector` `AI Model Integration`
 
 ### Data & Databases
 
@@ -108,13 +108,13 @@ options trading data.
 `Tableau` `Data Visualization`
 `Dashboards` `Data Analysis`
 
-### Software Engineering
+### Software Engineering(Foundational level)
 
 `TypeScript` `JavaScript` `React`
 `Node.js` `Express.js` `REST APIs`
 `Flutter` `Dart`
 
-### Cloud & DevOps
+### Cloud & DevOps(foundational level)
 
 `Docker` `Git` `GitHub`
 `Supabase` `AWS` `CI/CD`
